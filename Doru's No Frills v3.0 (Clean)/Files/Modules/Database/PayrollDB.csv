@@ -1,0 +1,3 @@
+employee,date,shift,checkin,checkout,wage,ID,Approval
+kevin,2013-09-18,1,11:23:56,11:23:59,7.80,1,No
+sid,2013-09-18,1,11:24:53,None,2,2,No
